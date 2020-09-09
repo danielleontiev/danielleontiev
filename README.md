@@ -9,5 +9,4 @@
                 ||----w |
                 ||     ||
 [danielleontiev@github]$ ▊
-
 ```
