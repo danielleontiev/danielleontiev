@@ -1,5 +1,5 @@
 ```
-[danielleontiev@github]$ cowsay Hi there!
+[danielleontiev@github ~]$ cowsay Hi there!
  ___________ 
 < Hi there! >
  ----------- 
@@ -8,5 +8,5 @@
             (__)\       )\/\
                 ||----w |
                 ||     ||
-[danielleontiev@github]$ ▊
+[danielleontiev@github ~]$ ▊
 ```
