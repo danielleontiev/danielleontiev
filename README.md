@@ -1,4 +1,5 @@
- ```
+```bash
+[danielleontiev@github]$ cowsay Hi there!
  ___________ 
 < Hi there! >
  ----------- 
@@ -7,4 +8,6 @@
             (__)\       )\/\
                 ||----w |
                 ||     ||
+[danielleontiev@github]$ 
+
 ```
